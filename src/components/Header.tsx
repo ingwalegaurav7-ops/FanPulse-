@@ -132,7 +132,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenSearch }) => {
               {/* Cricket-inspired Logo Emblem */}
               <div className="relative h-10 w-10 sm:h-11 sm:w-11 rounded-xl overflow-hidden bg-[#160E36] border border-[#5425C9]/30 shadow-sm flex items-center justify-center shrink-0 group-hover:scale-105 group-hover:border-[#5425C9] transition-all duration-200">
                 <img
-                  src="/assets/aistudio/image_412606d4.png"
+                  src="./assets/aistudio/image_412606d4.png"
                   alt="FanPulse AI Logo"
                   className="h-full w-full object-cover object-left"
                 />
