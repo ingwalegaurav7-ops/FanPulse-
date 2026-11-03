@@ -1,0 +1,6 @@
+{
+  "name": "FanPulse AI - Every Ball Has a Story",
+  "description": "AI-powered cricket companion delivering live match intelligence, real-time ball-by-ball momentum analysis, fantasy impact tracker, and contextual AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
